@@ -1,7 +1,4 @@
 # Next Step Empresa Júnior
-
-Este repositório contém o código-fonte completo para o site da **Next Step Empresa Júnior**, desenvolvido com HTML, CSS e JavaScript. O objetivo é criar uma plataforma moderna e funcional para apresentar a empresa, seus serviços e facilitar o contato com clientes.
-
 ## Objetivo
 
 - Atualizar e manter o site completo da Next Step Empresa Júnior.
